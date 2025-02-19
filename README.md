@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CosmosKing777
+- 👋 Hi, I’m Nirved Shah
 - 👀 I’m interested in Cloud and DevOps Engineering
 - 🌱 I’m currently learning Bachelor of Computer Applications(BCA)
 - 💞️ I’m looking to collaborate on Cloud Projects
