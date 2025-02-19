@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nirved Shah
-- 👀 I’m interested in Cloud and DevOps Engineering
+- 👀 I’m interested in Cloud and Cybersecurity
 - 🌱 I’m currently learning Bachelor of Computer Applications(BCA)
 - 💞️ I’m looking to collaborate on Cloud Projects
 - 📫 How to reach me ...
